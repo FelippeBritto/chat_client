@@ -10,7 +10,7 @@ Chat Client build with pure NodeJS at Js Week.
 git clone https://github.com/FelippeBritto/chat_client.git
 cd chat_client
 cd server
-npm run start
+npm start
 
 // New Terminal
 // Inside /chat_client
